@@ -16,6 +16,14 @@ Het platform moet toegankelijk zijn voor iedereen. Onderzoek hoe je de toegankel
 
 Voer een web content accessibility guidelines controle uit op een website en presenteer je bevindingen.
 
+## Planning
+|Week 1||||
+| Maandag | 25/10/2021 | 13:00 uur * | # Briefing |
+| Dinsdag | 26/10/2021 | 13:00 uur * | # Debriefing |
+| Week 2 ||||
+| Dinsdag, woensdag of donderdag | 02/11/2021 | 13:00 uur * | # Feedbacksessie |
+| Donderdag | 04/11/2021 | 13:00 uur * | # Oplevering / eindpresentatie |
+
 ## Werkwijze
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
