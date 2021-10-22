@@ -19,9 +19,9 @@ Voer een web content accessibility guidelines controle uit op een website en pre
 ## Planning
 
 <table>
-    <tr>
+    <th>
         <td colspan="4">Week 1</td>
-    </tr>
+    </th>
     <tr>
         <td>Maandag</td>
         <td>25/10/2021</td>
@@ -34,9 +34,9 @@ Voer een web content accessibility guidelines controle uit op een website en pre
         <td>13:00 uur *</td>
         <td># Debriefing</td>
     </tr>
-    <tr>
+    <th>
         <td colspan="4">Week 2</td>
-    </tr>
+    </th>
     <tr>
         <td>Maandag</td>
         <td>02/11/2021</td>
