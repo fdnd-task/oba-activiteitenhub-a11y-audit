@@ -22,6 +22,7 @@ Voer een web content accessibility guidelines controle uit op een website en pre
 |---|---|---|---|
 | Maandag | 25/10/2021 | 13:00 uur * | # Briefing |
 | Dinsdag | 26/10/2021 | 13:00 uur * | # Debriefing |
+
 | Week 2 ||||
 |---|---|---|---|
 | Dinsdag, woensdag of donderdag | 02/11/2021 | 13:00 uur * | # Feedbacksessie |
