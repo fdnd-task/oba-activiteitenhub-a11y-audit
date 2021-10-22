@@ -34,8 +34,6 @@ Voer een web content accessibility guidelines controle uit op een website en pre
         <td>13:00 uur *</td>
         <td># Debriefing</td>
     </tr>
- </table>
- <table>
     <tr>
         <td colspan="4">Week 2</td>
     </tr>
