@@ -38,12 +38,6 @@ Voer een web content accessibility guidelines controle uit op een website en pre
         <td colspan="4"><b>Week 2</b></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td>Donderdag</td>
         <td>04/11/2021</td>
         <td>13:00 uur *</td>
