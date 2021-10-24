@@ -29,7 +29,7 @@ Voer een web content accessibility guidelines controle uit op een website en pre
         <td>Briefing</td>
     </tr>
     <tr>
-        <td>Maandag</td>
+        <td>Dinsdag</td>
         <td>26/10/2021</td>
         <td>13:00 uur *</td>
         <td>Debriefing</td>
@@ -44,7 +44,7 @@ Voer een web content accessibility guidelines controle uit op een website en pre
         <td>Feedbacksessie</td>
     </tr>
     <tr>
-        <td>Maandag</td>
+        <td>Donderdag</td>
         <td>04/11/2021</td>
         <td>13:00 uur *</td>
         <td>Oplevering</td>
