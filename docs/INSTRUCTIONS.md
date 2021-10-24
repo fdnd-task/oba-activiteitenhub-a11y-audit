@@ -18,6 +18,13 @@ Voer een web content accessibility guidelines controle uit op een website en pre
 
 ## Planning
 
+| Planning  | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag  |
+|---|---|---|---|---|---|
+| Week 1 | 25/10/2021 <br>13:00 uur * <br>Briefing | 26/10/2021 <br>13:00 uur * <br>Debriefing |  |  |  |
+| Week 2  |  |  |  | 4/11/2021 <br>13:00 uur * <br>Oplevering  |  |
+
+
+
 <table>
     <tr>
         <td colspan="4"><b>Week 1</b></td>
