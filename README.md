@@ -4,7 +4,7 @@
 
 ## Beschrijving
 [live pagina 🌐](https://www.oba.nl/agenda.html)
-<!-- Voeg een mooie poster visual toe 📸 -->
+![preview oba op digital screen](/assets/unknown.png)
 
 ## Inhoudsopgave
 
