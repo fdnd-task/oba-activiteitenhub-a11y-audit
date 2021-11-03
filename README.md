@@ -80,20 +80,56 @@ toegankelijkheidstest aan de hand van A11Y Project-checklist en lighthouse check
 {Beschijf de resultaten van de hele test op basis van de A11Y Project-Checklist}
 
 ##### Content
+  * Het taalgebruik is duidelijk en is eenvoudig te lezen.
+  * De inhoud van  de button, a en label elementen zijn uniek en bevatten beschrijvende text. 
+  * Op de website is alleen geschikt voor left-to-right talen. Op de website kun je kiezen tussen Nederlands en Engels.
+
 
 ##### Global code
-
+![preview oba op digital screen](/assets/html-checker.png)
+  * Een document mag niet zowel een meta-element met een http-equiv-attribuut waarvan de waarde content-type is, als een meta-element met een charset-attribuut bevatten.
+``` 
+<meta charset="utf-8">
+```
+ 
+  * Een meta-element met een http-equiv-attribuut waarvan de waarde X-UA-Compatible is, moet een content-attribuut hebben met de waarde IE=edge.
+``` 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+```
+ 
+  * Attribuuttype is op dit moment niet toegestaan bij element selectie.
+ ```
+ <select id="pagination-selector" type="select" name="pageNumber">
+ ```
+ 
 ##### Keyboard
+  * De interface en inhoud kan worden genavigeerd doormiddel van het toetsenbord.
+  * Er is een zichtbare focusstijl voor de geselecteerde elementen via toetsenbordinvoer.
+  * De focusvolgorde van het toetsenbord komt overeen met de visuele lay-out.
 
 ##### Images
+  * Zorg ervoor dat alle img-elementen een alt-attribuut hebben.
+  * Bij bijna alle img-elementen van agenda pagina ontbreken de alt-attributen. Alleen het logo van OBA bevat een alt-attribuut.
+   ```
+<img src="/content/dam/logo/oba-logo.png" alt="Openbare Bibliotheek Amsterdam">
+```
 
 ##### Headings
+* Er is geen h1.
+* De h2 elementen hebben niet de zelfde ```font-size```. (had handig geweest als de grootste text een h1 zou zijn)
+* De headings beschrijven goed de content van de pagina.
+* Er is verder een logische opbouw omdat de geneste headings een waarde hebben van h3.
 
 ##### Lists
+* De nav, filter-nav, agenda & footer-nav bevatten allemaal een unordered list.
+* De pagina-nav bestaat uit een ordered list.
+* Alle lists zijn correct genest.
 
 ##### Controls
+* Alle links & knoppen zijn toegankelijk voor screenreaders en keyboard navigatie.
 
 ##### Tables
+n.v.t.
 
 ##### Forms
 - All inputs in a form are associated with a corresponding label element.<br />
