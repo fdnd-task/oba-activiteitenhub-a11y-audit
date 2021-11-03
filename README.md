@@ -1,8 +1,6 @@
 # Rapportage webtoegankelijkheid-test voor {naam van de website}
-
 [live pagina 🌐](https://www.oba.nl/agenda.html)
 ![preview oba op digital screen](/assets/unknown.png)
-
 
 *Dit document is een template voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschilelnde tests kunnen worden vergeleken.*
 
