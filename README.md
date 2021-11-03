@@ -1,8 +1,7 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Toegankelijksheids rapport oba de agenda pagina
 
 ## Beschrijving
+
 
 [live pagina 🌐](https://www.oba.nl/agenda.html)
 ![preview oba op digital screen](/assets/unknown.png)
