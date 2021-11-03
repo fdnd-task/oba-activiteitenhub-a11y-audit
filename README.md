@@ -96,82 +96,82 @@ toegankelijkheidstest aan de hand van A11Y Project-checklist en lighthouse check
 ##### Tables
 
 ##### Forms
-- All inputs in a form are associated with a corresponding label element.
+- All inputs in a form are associated with a corresponding label element.<br />
  	Elke input of selection heeft label met for property
-- Use fieldset and legend elements where appropriate.
+- Use fieldset and legend elements where appropriate.<br />
  	n.v.t.
-- Inputs use autocomplete where appropriate.
+- Inputs use autocomplete where appropriate.<br />
  	n.v.t.
-- Make sure that form input errors are displayed in list above the form after submission.
+- Make sure that form input errors are displayed in list above the form after submission.<br />
  	n.v.t.
-- Associate input error messaging with the input it corresponds to.
+- Associate input error messaging with the input it corresponds to.<br />
  	n.v.t.
-- Make sure that error, warning, and success states are not visually communicated by just color.
+- Make sure that error, warning, and success states are not visually communicated by just color.<br />
  	n.v.t.
 
 ##### Media
-- Make sure that media does not autoplay.
+- Make sure that media does not autoplay.<br />
  	n.v.t.
-- Ensure that media controls use appropriate markup.
+- Ensure that media controls use appropriate markup.<br />
  	n.v.t.
-- Check to see that all media can be paused.
+- Check to see that all media can be paused.<br />
  	n.v.t.
 
 ##### Video
-- Confirm the presence of captions.
+- Confirm the presence of captions.<br />
  	n.v.t.
-- Remove seizure triggers.
+- Remove seizure triggers.<br />
  	n.v.t.
 
 ##### Audio
-- Confirm that transcripts are available.
+- Confirm that transcripts are available.<br />
  	n.v.t.
 
 ##### Appearance
-- Check your content in specialized browsing modes.
-	 In zowel high contrast mode als inverted color mode ziet de site er nog steeds goed 		uit en is de content te lezen.
-- Increase text size to 200%.
+- Check your content in specialized browsing modes.<br />
+	 In zowel high contrast mode als inverted color mode ziet de site er nog steeds goed uit en is de content te lezen.
+- Increase text size to 200%.<br />
  	Niks overlapt en alles is nog leesbaar
-- Double-check that good proximity between content is maintained.
+- Double-check that good proximity between content is maintained.<br />
  	Alle content is nog steeds makkelijk te ontdekken
-- Make sure color isn't the only way information is conveyed.
+- Make sure color isn't the only way information is conveyed.<br />
  	Ja alles is nog steeds te vinden in grayscale
-- Make sure instructions are not visual or audio-only.
+- Make sure instructions are not visual or audio-only.<br />
  	De namen van de secties en elementen zijn descriptieve en duidelijk genoeg
-- Use a simple, straightforward, and consistent layout.
+- Use a simple, straightforward, and consistent layout.<br />
  	Redelijk simpele generieke layout, consistent wel erg complex en groot.
 
 ##### Animation
-- Ensure animations are subtle and do not flash too much.
+- Ensure animations are subtle and do not flash too much.<br />
 	 n.v.t.
-- Provide a mechanism to pause background video.
+- Provide a mechanism to pause background video.<br />
  	n.v.t.
-- Make sure all animation obeys the prefers-reduced-motion media query.
+- Make sure all animation obeys the prefers-reduced-motion media query.<br />
  	n.v.t.
 
 ##### Color contrast
-- Check the contrast for all normal-sized text.
+- Check the contrast for all normal-sized text.<br />
   Het is zwart op wit en er is genoeg contrast
-- Check the contrast for all large-sized text.
+- Check the contrast for all large-sized text.<br />
  	Het is zwart op wit en er is genoeg contrast
-- Check the contrast for all icons.
+- Check the contrast for all icons.<br />
  	Het is rood op wit en er is genoeg contrast
-- Check the contrast of borders for input elements (text input, radio buttons, checkboxes, etc.).
+- Check the contrast of borders for input elements (text input, radio buttons, checkboxes, etc.).<br />
  	Het is allemaal een tint van grijs en er is gezorgd voor genoeg contrast
-- Check text that overlaps images or video.
+- Check text that overlaps images or video.<br />
  	Er is geen text dat images of videos overlapt
-- Check custom ::selection colors.
+- Check custom ::selection colors.<br />
  	Is een tint van grijs en is genoeg contrast
 
 
 ##### Mobile and touch
-- Check that the site can be rotated to any rotation.
-  The site allows both orientations on mobile 
-- Remove horizontal scrolling.
+- Check that the site can be rotated to any rotation.<br />
+  The site allows both orientations on mobile
+- Remove horizontal scrolling.<br />
   The site has no horizontal scrolling
-- Ensure that button and link icons can be activated with ease
+- Ensure that button and link icons can be activated with ease.<br />
   De buttons van de sites en links zijn groot genoeg en toegankelijk
-- Ensure sufficient space between interactive items in order to provide a scroll area.
+- Ensure sufficient space between interactive items in order to provide a scroll area.<br />
  	n.v.t.
 
 {Schrijf per check wat er uit de test is gekomen}
