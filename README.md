@@ -61,19 +61,19 @@ Comfortabel tot proffesioneel.
 AA
 
 A11y checklist, lighthouse
-{Benoem de beoordelings- en evaluatietools en versies van de tools die gebruikt zijn}
 
 toegankelijkheidstest aan de hand van A11Y Project-checklist en lighthouse check
 
 ## Testresultaten en aanbevelingen
 
-{Samenvatting van testresultaten, bv. deze website {voldoet/ voldoet niet/ is dichtbij aan voldoen} aan de WCAG 2.1, op niveau A, AA of AAA.}
+Deze website is dichtbij aan voldoen aan de WCAG 2.1, op niveau AA
 
 ### Sterke punten
-{Samenvatting van de de sterke punten ...}
+Sterke punten zijn de leesbaarheid van de content van OBA, en de consistente stijl van de site
 
 ### Ontoegankelijke punten
-{Samenvatting van ontoegankelijke punten ...}
+- [user-scalable="no"] is used in the <meta name="viewport"> element or the [maximum-scale] attribute is less than 5.
+
 
 ### Checklist 
 
@@ -209,6 +209,8 @@ n.v.t.
   De buttons van de sites en links zijn groot genoeg en toegankelijk
 - Ensure sufficient space between interactive items in order to provide a scroll area.<br />
  	n.v.t.
+[user-scalable="no"] is used in the <meta name="viewport"> element or the [maximum-scale] attribute is less than 5.
+Users kunnen niet echt zoomen op de mobiel. Uit de lighthouse check gebleken
 
 {Schrijf per check wat er uit de test is gekomen}
 
