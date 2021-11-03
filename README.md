@@ -1,12 +1,12 @@
-# Rapportage webtoegankelijkheid-test voor {naam van de website}
+# Rapportage webtoegankelijkheid-test voor openbare bibliotheek van Amsterdam
 [live pagina 🌐](https://www.oba.nl/agenda.html)
 ![preview oba op digital screen](/assets/unknown.png)
 
 *Dit document is een template voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschilelnde tests kunnen worden vergeleken.*
 
-Datum webtoegankelijkheid-test: {datum}
+Datum webtoegankelijkheid-test: 03/11/2021
 
-Webtoegankelijkheid-test uitgevoerd door: {naamt}
+Webtoegankelijkheid-test uitgevoerd door: Beau & Matthijs
 
 ## Inhoudsopgave
 
@@ -22,9 +22,9 @@ Webtoegankelijkheid-test uitgevoerd door: {naamt}
 
 ## Samenvatting
 
-Dit rapport beschrijft in hoeverre de website {naam van de website} overeenstemt met de *Web Content Accessibility Guidelines (WCAG)* van het W3C. Na de achtergrondinformatie en afbakening van de test worden beoordelaars, beoordelingsproces en testresulltaten beschreven. 
+Dit rapport beschrijft in hoeverre de website OBA agendapagina overeenstemt met de *Web Content Accessibility Guidelines (WCAG)* van het W3C. Na de achtergrondinformatie en afbakening van de test worden beoordelaars, beoordelingsproces en testresulltaten beschreven. 
 
-Conslusie van deze test luidt dat de {Frontend Design & Development} website {niet voldoet/ voldoet/ dichtbij voldoen is aan} de WCAG 2.1, op niveau {A/ AA/ AAA}. Gedetailleerde resultaten en aanbevelingen zijn verderop in dit document beschikbaar en in de referenties vindt u bronnen voor eventuele vervolgstudie. Wij stellen feedback op deze evaluatie zeer op prijs.
+Conslusie van deze test luidt dat de {Frontend Design & Development} website {niet voldoet/ voldoet/ dichtbij voldoen is aan} de WCAG 2.1, op niveau AA. Gedetailleerde resultaten en aanbevelingen zijn verderop in dit document beschikbaar en in de referenties vindt u bronnen voor eventuele vervolgstudie. Wij stellen feedback op deze evaluatie zeer op prijs.
 
 ## Achtergrond bij de evaluatie
 
@@ -32,43 +32,38 @@ De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en 
 
 ## Afbakening
 
-{Naam van de website}
+OBA agendapagina
 
-{en doel van de website, wanneer relevant}
+Informatie om deel te nemen aan de informatie samenleving zo laagdrempelig te maken als mogelijk is.
 
-{Base URL van de website}
-
-{Lijst met URLs die in de beoordeling meegenomen zijn}
-
-{Als de website dynamisch is, screenshots van hetgeen beoordeeld is}
+https://www.oba.nl/agenda.html
 
 {Indicatie van pagina’s die handmatig beoordeeld zijn ten opzichte van semi-geautomatiseerde tools}
 
-{URLs die niet beoordeeld zijn}
+03/11/2021
 
-{Exacte datum, of reeks van data waarop beoordeling heeft plaatsgevonden}
-
-{Natuurlijke taal/talen van de website}
+HTML, CSS en javascript
 
 ## Beoordelaars
 
-{Naam van de beoordelaar of het beoordelingsteam}
+Beau & Matthijs
 
-{Organisatie van de beoordelaars}
+FDND
 
-{Contactinformatie van de beoordelaar(s)}
+Github: beaupd & M4TThys123
 
 {Expertisegebied van de beoordelaars op basis van naamgeving in de referentie: “Informatie over het gebruik van gecombineerde expertise voor het evalueren van webtoegankelijkheid”}
 
-{Niveau van natuurlijke taal/talen waarin de beoordelaar(s) communiceert/communiceren}
+Comfortabel tot proffesioneel.
 
 ## Beoordelingsproces
 
-{Benoem het WCAG 2.1 niveau waarvoor de beoordeling is uitgevoerd, bv. WCAG 2.1 Niveau A, AA of AAA}
+AA
 
+A11y checklist, lighthouse
 {Benoem de beoordelings- en evaluatietools en versies van de tools die gebruikt zijn}
 
-{Beschrijf hoe handmatige beoordeling is uitgevoerd, bv. usability test of toegankelijkheidstest aan de hand van A11Y Project-checklist}
+toegankelijkheidstest aan de hand van A11Y Project-checklist en lighthouse check
 
 ## Testresultaten en aanbevelingen
 
