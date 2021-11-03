@@ -96,20 +96,83 @@ toegankelijkheidstest aan de hand van A11Y Project-checklist en lighthouse check
 ##### Tables
 
 ##### Forms
+- All inputs in a form are associated with a corresponding label element.
+ 	Elke input of selection heeft label met for property
+- Use fieldset and legend elements where appropriate.
+ 	n.v.t.
+- Inputs use autocomplete where appropriate.
+ 	n.v.t.
+- Make sure that form input errors are displayed in list above the form after submission.
+ 	n.v.t.
+- Associate input error messaging with the input it corresponds to.
+ 	n.v.t.
+- Make sure that error, warning, and success states are not visually communicated by just color.
+ 	n.v.t.
 
 ##### Media
+- Make sure that media does not autoplay.
+ 	n.v.t.
+- Ensure that media controls use appropriate markup.
+ 	n.v.t.
+- Check to see that all media can be paused.
+ 	n.v.t.
 
 ##### Video
+- Confirm the presence of captions.
+ 	n.v.t.
+- Remove seizure triggers.
+ 	n.v.t.
 
 ##### Audio
+- Confirm that transcripts are available.
+ 	n.v.t.
 
 ##### Appearance
+- Check your content in specialized browsing modes.
+	 In zowel high contrast mode als inverted color mode ziet de site er nog steeds goed 		uit en is de content te lezen.
+- Increase text size to 200%.
+ 	Niks overlapt en alles is nog leesbaar
+- Double-check that good proximity between content is maintained.
+ 	Alle content is nog steeds makkelijk te ontdekken
+- Make sure color isn't the only way information is conveyed.
+ 	Ja alles is nog steeds te vinden in grayscale
+- Make sure instructions are not visual or audio-only.
+ 	De namen van de secties en elementen zijn descriptieve en duidelijk genoeg
+- Use a simple, straightforward, and consistent layout.
+ 	Redelijk simpele generieke layout, consistent wel erg complex en groot.
 
 ##### Animation
+- Ensure animations are subtle and do not flash too much.
+	 n.v.t.
+- Provide a mechanism to pause background video.
+ 	n.v.t.
+- Make sure all animation obeys the prefers-reduced-motion media query.
+ 	n.v.t.
 
 ##### Color contrast
+- Check the contrast for all normal-sized text.
+  Het is zwart op wit en er is genoeg contrast
+- Check the contrast for all large-sized text.
+ 	Het is zwart op wit en er is genoeg contrast
+- Check the contrast for all icons.
+ 	Het is rood op wit en er is genoeg contrast
+- Check the contrast of borders for input elements (text input, radio buttons, checkboxes, etc.).
+ 	Het is allemaal een tint van grijs en er is gezorgd voor genoeg contrast
+- Check text that overlaps images or video.
+ 	Er is geen text dat images of videos overlapt
+- Check custom ::selection colors.
+ 	Is een tint van grijs en is genoeg contrast
+
 
 ##### Mobile and touch
+- Check that the site can be rotated to any rotation.
+  The site allows both orientations on mobile 
+- Remove horizontal scrolling.
+  The site has no horizontal scrolling
+- Ensure that button and link icons can be activated with ease
+  De buttons van de sites en links zijn groot genoeg en toegankelijk
+- Ensure sufficient space between interactive items in order to provide a scroll area.
+ 	n.v.t.
 
 {Schrijf per check wat er uit de test is gekomen}
 
