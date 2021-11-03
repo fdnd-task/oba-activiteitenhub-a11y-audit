@@ -52,7 +52,7 @@ FDND
 
 Github: beaupd & M4TThys123
 
-{Expertisegebied van de beoordelaars op basis van naamgeving in de referentie: “Informatie over het gebruik van gecombineerde expertise voor het evalueren van webtoegankelijkheid”}
+Html, Css & javascript
 
 Comfortabel tot proffesioneel.
 
