@@ -67,10 +67,10 @@ toegankelijkheidstest aan de hand van A11Y Project-checklist en lighthouse check
 
 ## Testresultaten en aanbevelingen
 
-Deze website is dichtbij aan voldoen aan de WCAG 2.1, op niveau AA
+Deze website is dichtbij aan voldoen aan de WCAG 2.1, op niveau AA.
 
 ### Sterke punten
-Sterke punten zijn de leesbaarheid van de content van OBA, en de consistente stijl van de site
+Sterke punten zijn de leesbaarheid van de content van OBA, en de consistente stijl van de site.
 
 ### Ontoegankelijke punten
 - [user-scalable="no"] is used in the <meta name="viewport"> element or the [maximum-scale] attribute is less than 5.
@@ -78,7 +78,7 @@ Sterke punten zijn de leesbaarheid van de content van OBA, en de consistente sti
 
 ### Checklist 
 
-Deze website voldoet bijna aan de gehele checklist op een paar punten na. Algehele a11y checklist impressie is boven gemiddeld tot goed
+Deze website voldoet bijna aan de gehele checklist op een paar punten na. Algehele a11y checklist impressie is boven gemiddeld tot goed.
 
 ##### Content
   * Het taalgebruik is duidelijk en is eenvoudig te lezen.
