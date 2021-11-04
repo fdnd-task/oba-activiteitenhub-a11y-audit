@@ -215,15 +215,14 @@ Users kunnen niet echt zoomen op de mobiel. Uit de lighthouse check gebleken
 ### Light House check mobile
 ![lighthouse Check](/assets/lighthouseCheck.png)
 
-### Light House check mobile
-![lighthouse Check](/assets/lighthouseCheckDesktop.png)
-
 ### Light House check desktop
+![lighthouse Check](/assets/lighthouseCheckDesktop.png)
 
 {Neem links op naar de WCAG 2.1 succescriteria en technieken voor de ontoegankelijke punten}
 
 {Voeg per check specifieke rapportage(s), of links naar rapportage(s) toe in de Wiki, bv. screenshots van tests}
 
+[user-scalable="no"] naar [user-scalable="yes"] veranderen zodat de user kan inzoomen. Bepaald met de lighthouse Check
 {Schrijf per check aanbevelingen voor het verbeteren van ontoegankelijke punten}
 
 {Beschrijf of verwijs per check naar een programma voor het monitoren van webstite toegankelijkheid, her-beoordeling aan de hand van beoordelingsinstrumenten etc.}
