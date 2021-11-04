@@ -215,6 +215,9 @@ Users kunnen niet echt zoomen op de mobiel. Uit de lighthouse check gebleken
 ### Light House check mobile
 ![lighthouse Check](/assets/lighthouseCheck.png)
 
+### Light House check mobile
+![lighthouse Check](/assets/lighthouseCheckDesktop.png)
+
 ### Light House check desktop
 
 {Neem links op naar de WCAG 2.1 succescriteria en technieken voor de ontoegankelijke punten}
