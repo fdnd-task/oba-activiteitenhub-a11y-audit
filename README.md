@@ -77,7 +77,7 @@ Sterke punten zijn de leesbaarheid van de content van OBA, en de consistente sti
 
 ### Checklist 
 
-{Beschijf de resultaten van de hele test op basis van de A11Y Project-Checklist}
+Deze website voldoet bijna aan de gehele checklist op een paar punten na. Algehele a11y checklist impressie is boven gemiddeld tot goed
 
 ##### Content
   * Het taalgebruik is duidelijk en is eenvoudig te lezen.
@@ -212,8 +212,6 @@ n.v.t.
 [user-scalable="no"] is used in the <meta name="viewport"> element or the [maximum-scale] attribute is less than 5.
 Users kunnen niet echt zoomen op de mobiel. Uit de lighthouse check gebleken
 
-{Schrijf per check wat er uit de test is gekomen}
-
 {Neem links op naar de WCAG 2.1 succescriteria en technieken voor de ontoegankelijke punten}
 
 {Voeg per check specifieke rapportage(s), of links naar rapportage(s) toe in de Wiki, bv. screenshots van tests}
@@ -237,7 +235,5 @@ Referenties welke gebruikt zijn bij de webtoegankelijkheid-test. Deze referentie
 - [Tools lijst voor semi-geautomatiseerde beoordeling van webtoegankelijkheid](https://www.w3.org/WAI/ER/tools/)
 - [Informatie over het gebruik van gecombineerde expertise voor het evalueren van webtoegankelijkheid](https://www.w3.org/WAI/eval/reviewteams)
 - [A11Y Project Checklist](https://www.a11yproject.com/checklist/)
-
-{Vul aan waar nodig, haal weg wat niet relevant is}
 
 ## Bijlagen
