@@ -81,48 +81,66 @@ Sterke punten zijn de leesbaarheid van de content van OBA, en de consistente sti
 Deze website voldoet bijna aan de gehele checklist op een paar punten na. Algehele a11y checklist impressie is boven gemiddeld tot goed.
 
 ##### Content
-  * Het taalgebruik is duidelijk en is eenvoudig te lezen.
-  * De inhoud van  de button, a en label elementen zijn uniek en bevatten beschrijvende text. 
-  * Op de website is alleen geschikt voor left-to-right talen. Op de website kun je kiezen tussen Nederlands en Engels.
+
+  * Use plain language and avoid figures of speech, idioms, and complicated metaphors. <br />
+  Het taalgebruik is duidelijk en is eenvoudig te lezen.
+  *  Make sure that ```button```, ```a```, and ```label``` element content is unique and descriptive.<br />
+  De inhoud van  de button, a en label elementen zijn uniek en bevatten beschrijvende text. 
+  * Use left-aligned text for left-to-right (LTR) languages, and right-aligned text for right-to-left (RTL) languages. <br />
+  Op de website is alleen geschikt voor left-to-right talen. Op de website kun je kiezen tussen Nederlands en Engels.
 
 
 ##### Global code
 ![preview oba op digital screen](/assets/html-checker.png)
-  * Een document mag niet zowel een meta-element met een http-equiv-attribuut waarvan de waarde content-type is, als een meta-element met een charset-attribuut bevatten.
+  * Validate your HTML.<br />
+  Een document mag niet zowel een meta-element met een http-equiv-attribuut waarvan de waarde content-type is, als een meta-element met een charset-attribuut bevatten.
 ``` 
 <meta charset="utf-8">
 ```
  
-  * Een meta-element met een http-equiv-attribuut waarvan de waarde X-UA-Compatible is, moet een content-attribuut hebben met de waarde IE=edge.
+Een meta-element met een http-equiv-attribuut waarvan de waarde X-UA-Compatible is, moet een content-attribuut hebben met de waarde IE=edge.
 ``` 
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 ```
- 
-  * Attribuuttype is op dit moment niet toegestaan bij element selectie.
+ Attribuuttype is op dit moment niet toegestaan bij element selectie.
  ```
  <select id="pagination-selector" type="select" name="pageNumber">
  ```
+  * Provide a unique title for each page or view. <br />
+    n.v.t.  
+  * Ensure that viewport zoom is not disabled. <br />
+    n.v.t.
+  * Ensure a linear content flow. <br />
+    n.v.t.
  
 ##### Keyboard
-  * De interface en inhoud kan worden genavigeerd doormiddel van het toetsenbord.
-  * Er is een zichtbare focusstijl voor de geselecteerde elementen via toetsenbordinvoer.
-  * De focusvolgorde van het toetsenbord komt overeen met de visuele lay-out.
+  * Make sure there is a visible focus style for interactive elements that are navigated to via keyboard input. <br />
+    De interface en inhoud kan worden genavigeerd doormiddel van het toetsenbord.
+  * Check to see that keyboard focus order matches the visual layout. <br />
+    Er is een zichtbare focusstijl voor de geselecteerde elementen via toetsenbordinvoer.
+  * Remove invisible focusable elements. <br />
+    De focusvolgorde van het toetsenbord komt overeen met de visuele lay-out.
 
 ##### Images
-  * Zorg ervoor dat alle img-elementen een alt-attribuut hebben.
-  * Bij bijna alle img-elementen van agenda pagina ontbreken de alt-attributen. Alleen het logo van OBA bevat een alt-attribuut.
+  * Make sure that all ```img``` elements have an ```alt``` attribute. <br />
+    Bij bijna alle img-elementen van agenda pagina ontbreken de alt-attributen. Alleen het logo van OBA bevat een alt-attribuut.
    ```
 <img src="/content/dam/logo/oba-logo.png" alt="Openbare Bibliotheek Amsterdam">
 ```
 
 ##### Headings
-* Er is geen h1.
+* Use only one ```h1``` element per page or view. <br />
+  Er is geen h1.
+* Use heading elements to introduce content. <br />
+  De headings beschrijven goed de content van de pagina.
+* Heading elements should be written in a logical sequence. <br />
+  Er is verder een logische opbouw omdat de geneste headings een waarde hebben van h3.
 * De h2 elementen hebben niet de zelfde ```font-size```. (had handig geweest als de grootste text een h1 zou zijn)
-* De headings beschrijven goed de content van de pagina.
-* Er is verder een logische opbouw omdat de geneste headings een waarde hebben van h3.
+
 
 ##### Lists
-* De nav, filter-nav, agenda & footer-nav bevatten allemaal een unordered list.
+* Use list elements (```ol```, ```ul```, and ```dl``` elements) for list content.<br />
+  De nav, filter-nav, agenda & footer-nav bevatten allemaal een unordered list.
 * De pagina-nav bestaat uit een ordered list.
 * Alle lists zijn correct genest.
 
@@ -130,7 +148,12 @@ Deze website voldoet bijna aan de gehele checklist op een paar punten na. Algehe
 * Alle links & knoppen zijn toegankelijk voor screenreaders en keyboard navigatie.
 
 ##### Tables
-n.v.t.
+* Use the ```table``` element to describe tabular data.<br />
+  n.v.t.
+* Use the ```th``` element for table headers (with appropriate ```scope``` attributes).<br />
+  n.v.t.
+* Use the ```caption``` element to provide a title for the table.<br />
+  n.v.t.
 
 ##### Forms
 - All inputs in a form are associated with a corresponding label element.<br />
