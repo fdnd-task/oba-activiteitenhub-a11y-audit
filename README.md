@@ -3,7 +3,7 @@
 [de andere pagina die gecheckt is van de oba](https://github.com/beaupd/oba-activiteitenhub-a11y-audit-autonomous/tree/activiteiten)
 ![preview oba op digital screen](/assets/unknown.png)
 
-*Dit document is een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschilelnde tests kunnen worden vergeleken.*
+*Dit document is een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschillende tests kunnen worden vergeleken.*
 
 Datum webtoegankelijkheid-test: 03/11/2021
 
