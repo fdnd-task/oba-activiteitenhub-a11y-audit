@@ -1,6 +1,6 @@
 # Rapportage webtoegankelijkheid-test voor openbare bibliotheek van Amsterdam
 [live pagina 🌐](https://www.oba.nl/agenda.html)
-[de andere pagina die gecheckt is van de oba](https://github.com/beaupd/oba-activiteitenhub-a11y-audit-autonomous/tree/activiteiten)
+[de andere pagina die gecheckt is van de oba](https://github.com/beaupd/oba-activiteitenhub-a11y-audit-autonomous/tree/activiteiten)<br/>
 ![preview oba op digital screen](/assets/unknown.png)
 
 *Dit document is een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschilelnde tests kunnen worden vergeleken.*
