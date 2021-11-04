@@ -145,7 +145,17 @@ Een meta-element met een http-equiv-attribuut waarvan de waarde X-UA-Compatible 
 * Alle lists zijn correct genest.
 
 ##### Controls
+* Use the ```a``` element for links. <br />
+  Alle links bestaan uit he ```a``` element.
+* Ensure that links are recognizable as links.<br />
+  Links zijn herkenvaar als links.
+* Ensure that controls have ```:focus``` states.  <br />
+  Alle controlls hebben een ```:focus``` state.
+* Use the ```button``` element for buttons. <br />
+  n.v.t.
 * Alle links & knoppen zijn toegankelijk voor screenreaders en keyboard navigatie.
+
+
 
 ##### Tables
 * Use the ```table``` element to describe tabular data.<br />
