@@ -53,7 +53,7 @@ FDND
 
 Github: beaupd & M4TThys123
 
-Html, Css & javascript
+HTML, CSS & JavaScript
 
 Comfortabel tot proffesioneel.
 
