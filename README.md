@@ -212,6 +212,8 @@ n.v.t.
 [user-scalable="no"] is used in the <meta name="viewport"> element or the [maximum-scale] attribute is less than 5.
 Users kunnen niet echt zoomen op de mobiel. Uit de lighthouse check gebleken
 
+![lighthouse Check](/assets/lighthouseCheck.png)
+
 {Neem links op naar de WCAG 2.1 succescriteria en technieken voor de ontoegankelijke punten}
 
 {Voeg per check specifieke rapportage(s), of links naar rapportage(s) toe in de Wiki, bv. screenshots van tests}
